@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-EmpleosApplication<empleos>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.iaaj.EmpleosApplication",
+            "projectName": "empleos",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
